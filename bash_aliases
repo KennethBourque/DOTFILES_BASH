@@ -12,6 +12,7 @@ alias lla='ls -lA'
 
 # Application Aliases
 alias chry='cherrytree'
+alias jop='joplin'
 alias burp='burpsuite'
 alias tm='tmux'
 alias SU='sudo su'
