@@ -8,7 +8,7 @@ alias el='exit'
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'
-alias lla='la -lA'
+alias lla='ls -lA'
 
 # Application Aliases
 alias chry='cherrytree'
